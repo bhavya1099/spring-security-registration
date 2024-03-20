@@ -59,7 +59,7 @@ ROOST_METHOD_SIG_HASH=setHostname_5c81782911
 // ********RoostGPT********
 package com.baeldung.captcha;
 
-import com.baeldung.captcha.ErrorCode; //supposing ErrorCode is inside package "com.baeldung.captcha". Update with correct import.
+// import com.baeldung.captcha.ErrorCode; //supposing ErrorCode is inside package "com.baeldung.captcha". Update with correct import.
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

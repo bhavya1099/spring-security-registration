@@ -62,6 +62,7 @@ import org.junit.Test;
 import java.util.Map;
 import java.util.HashMap;
 import static org.junit.Assert.*;
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 
 public class GoogleResponseForValueTest {
 

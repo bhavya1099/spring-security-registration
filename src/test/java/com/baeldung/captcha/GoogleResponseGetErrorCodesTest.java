@@ -62,11 +62,10 @@ Validation:
 // ********RoostGPT********
 package com.baeldung.captcha;
 
-import your.qualified.name.ErrorCode;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 public class GoogleResponseGetErrorCodesTest {
 
     private GoogleResponse googleResponse;

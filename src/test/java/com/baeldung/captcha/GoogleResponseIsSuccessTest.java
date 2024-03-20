@@ -61,8 +61,7 @@ package com.baeldung.captcha;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import com.baeldung.captcha.ErrorCode;
-
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 public class GoogleResponseIsSuccessTest {
 
     @Test
