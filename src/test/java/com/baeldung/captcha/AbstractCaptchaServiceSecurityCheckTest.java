@@ -71,7 +71,8 @@ Details:
 */
 
 // ********RoostGPT********
-@Before
-public void setUp() {
-    abstractCaptchaService = new ConcreteCaptchaService(request, captchaSettings, reCaptchaAttemptService, restTemplate);
-}
+// package java.com.baeldung.captcha.abstractCaptchaService;
+// @Before
+// public void setUp() {
+//     abstractCaptchaService = new ConcreteCaptchaService(request, captchaSettings, reCaptchaAttemptService, restTemplate);
+// }

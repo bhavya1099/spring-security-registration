@@ -59,7 +59,7 @@ package com.baeldung.captcha;
 
 import org.junit.Test;
 import org.junit.Assert;
-import com.baeldung.captcha.ErrorCode; // import ErrorCode class
+import com.baeldung.captcha.GoogleResponse.ErrorCode; // import ErrorCode class
 
 public class GoogleResponseGetErrorCodesTest {
 

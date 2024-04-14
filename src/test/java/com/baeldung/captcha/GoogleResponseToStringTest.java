@@ -69,7 +69,8 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 // import the missing ErrorCode class
-import com.somepackage.ErrorCode;
+// import com.somepackage.ErrorCode;
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 
 public class GoogleResponseToStringTest {
 

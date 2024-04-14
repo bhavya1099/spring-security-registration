@@ -69,6 +69,7 @@ import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
+import java.util.concurrent.TimeUnit;
 
 public class ReCaptchaAttemptServiceReCaptchaFailedTest {
 

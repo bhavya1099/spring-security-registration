@@ -76,7 +76,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 // ErrorCode class import is missing. Add the correct import statement.
-import com.baeldung.captcha.ErrorCode;
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 
 public class GoogleResponseHasClientErrorTest {
     private GoogleResponse googleResponse;

@@ -72,7 +72,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 // Assuming ErrorCode is in the same package as GoogleResponse
-import com.baeldung.captcha.ErrorCode;
+import com.baeldung.captcha.GoogleResponse.ErrorCode;
 
 public class GoogleResponseSetErrorCodesTest {
 
